@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ MATRIX BANNER ═══════════════════════════ -->
 <p align="center">
-  <img width="100%" src="./assets/matrix.svg" alt="network security" />
+  <img width="100%" src="./assets/matrix-rain.svg" alt="network security" />
 </p>
 
 <h1 align="center">Nadif Reza Fahlevi</h1>
