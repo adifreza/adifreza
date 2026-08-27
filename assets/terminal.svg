@@ -9,11 +9,11 @@
       .out{ fill:#7d8b99; }
       .ok { fill:#39d353; }
       .warn{ fill:#ffd166; }
-      .l { opacity:0; animation: show 12s linear infinite; }
-      .l1{ animation-delay:0.3s } .l2{ animation-delay:1.6s } .l3{ animation-delay:2.4s }
-      .l4{ animation-delay:3.2s } .l5{ animation-delay:4.6s } .l6{ animation-delay:5.4s }
-      .l7{ animation-delay:6.2s } .l8{ animation-delay:7.6s } .l9{ animation-delay:8.6s }
-      @keyframes show { 0%{opacity:0} 3%{opacity:1} 92%{opacity:1} 100%{opacity:0} }
+      .l { opacity:0; animation: show 13s linear infinite; }
+      .l1{ animation-delay:-3.2s } .l2{ animation-delay:-2.8s } .l3{ animation-delay:-2.4s }
+      .l4{ animation-delay:-2.0s } .l5{ animation-delay:-1.6s } .l6{ animation-delay:-1.2s }
+      .l7{ animation-delay:-0.8s } .l8{ animation-delay:-0.4s } .l9{ animation-delay:0s }
+      @keyframes show { 0%{opacity:0} 4%{opacity:1} 90%{opacity:1} 96%{opacity:0} 100%{opacity:0} }
       @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
       .cur { fill:#39d353; animation: blink 1s step-end infinite; }
     </style>
