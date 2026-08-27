@@ -61,12 +61,10 @@ prinsip:     "kode terbaik adalah kode yang beneran dipakai"
   <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adifreza&theme=github_dark&utcOffset=7" alt="productive-time" />
 </p>
 
-<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adifreza/adifreza/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adifreza/adifreza/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/adifreza/adifreza/output/github-contribution-grid-snake.svg" />
-</picture>
+<!-- ═══════════════════════════ 3D CONTRIB ═══════════════════════════ -->
+<p align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" />
+</p>
 
 <!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
 ### 🔗 Connect
