@@ -53,12 +53,12 @@ prinsip:     "kode terbaik adalah kode yang beneran dipakai"
 
 <p align="center">
   <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adifreza&theme=github_dark" alt="langs" />
-  <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=adifreza&hide_border=true&background=0d1117&stroke=21262d&ring=FF6B35&fire=FF6B35&currentStreakLabel=FF6B35&sideNums=c9d1d9&currentStreakNum=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adifreza&theme=github_dark" alt="most-commit-lang" />
 </p>
 
 <p align="center">
-  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adifreza&theme=github_dark" alt="most-commit-lang" />
   <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adifreza&theme=github_dark&utcOffset=7" alt="productive-time" />
+  <img height="185" src="https://streak-stats.demolab.com/?user=adifreza&hide_border=true&background=0d1117&stroke=21262d&ring=FF6B35&fire=FF6B35&currentStreakLabel=FF6B35&sideNums=c9d1d9&currentStreakNum=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
 </p>
 
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
