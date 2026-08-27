@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" font-family="'Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace">
+  <defs>
+    <style>
+      .win { fill:#0b0f14; stroke:#1f2c24; stroke-width:1.5; }
+      .bar { fill:#11161d; }
+      text { font-size:15px; }
+      .p  { fill:#39d353; }
+      .cmd{ fill:#eafff3; }
+      .out{ fill:#7d8b99; }
+      .ok { fill:#39d353; }
+      .warn{ fill:#ffd166; }
+      .l { opacity:0; animation: show 12s linear infinite; }
+      .l1{ animation-delay:0.3s } .l2{ animation-delay:1.6s } .l3{ animation-delay:2.4s }
+      .l4{ animation-delay:3.2s } .l5{ animation-delay:4.6s } .l6{ animation-delay:5.4s }
+      .l7{ animation-delay:6.2s } .l8{ animation-delay:7.6s } .l9{ animation-delay:8.6s }
+      @keyframes show { 0%{opacity:0} 3%{opacity:1} 92%{opacity:1} 100%{opacity:0} }
+      @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+      .cur { fill:#39d353; animation: blink 1s step-end infinite; }
+    </style>
+  </defs>
+
+  <rect class="win" x="1" y="1" width="898" height="318" rx="12"/>
+  <rect class="bar" x="1.5" y="1.5" width="897" height="34" rx="12"/>
+  <circle cx="24" cy="18" r="6" fill="#ff5f56"/><circle cx="44" cy="18" r="6" fill="#ffbd2e"/><circle cx="64" cy="18" r="6" fill="#27c93f"/>
+  <text x="450" y="23" text-anchor="middle" class="out">adifreza@sec — zsh</text>
+
+  <g transform="translate(22,64)">
+    <text class="l l1"><tspan class="p">$ </tspan><tspan class="cmd">nmap -sS -sV -T4 10.10.0.0/24 -oN scan.txt</tspan></text>
+    <text y="26" class="l l2 out">Discovered 12 hosts · 3 with open 22/tcp · 1 running outdated OpenSSL</text>
+    <text y="58" class="l l3"><tspan class="p">$ </tspan><tspan class="cmd">sudo tcpdump -i eth0 -nn 'tcp[13] &amp; 2 != 0'</tspan></text>
+    <text y="84" class="l l4 out">SYN flood signature on :443 — mitigated via rate-limit + SYN cookies</text>
+    <text y="116" class="l l5"><tspan class="p">$ </tspan><tspan class="cmd">nikto -h https://staging.internal | tee audit.log</tspan></text>
+    <text y="142" class="l l6 warn">2 headers missing (HSTS, CSP) · TLS 1.0 still enabled → patched</text>
+    <text y="174" class="l l7"><tspan class="p">$ </tspan><tspan class="cmd">fail2ban-client status sshd &amp;&amp; ufw status verbose</tspan></text>
+    <text y="200" class="l l8 ok">jail active · 41 IPs banned · firewall: deny (incoming), allow 22/80/443</text>
+    <text y="232" class="l l9"><tspan class="p">$ </tspan><tspan class="cmd">./harden.sh --profile prod</tspan><tspan class="cur"> ▋</tspan></text>
+  </g>
+</svg>
