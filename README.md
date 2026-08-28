@@ -1,6 +1,4 @@
-<h1 align="center">Nadif Reza Fahlevi</h1>
-
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<!-- ═══════════════════════════ HEADER (name) ═══════════════════════════ -->
 <p align="center">
   <img width="100%" src="./assets/header.svg" alt="Nadif Reza Fahlevi" />
 </p>
