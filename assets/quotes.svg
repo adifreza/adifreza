@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130" font-family="'Fira Code',ui-monospace,SFMono-Regular,monospace">
+  <defs>
+    <style>
+      text { fill:#c9d5e1; }
+      .q  { font-size:17px; font-style:italic; }
+      .a  { font-size:12px; fill:#6ea8ff; letter-spacing:1px; }
+      .grp { opacity:0; animation: cycle 26s ease-in-out infinite; }
+      .g2 { animation-delay: 6.5s }
+      .g3 { animation-delay: 13s }
+      .g4 { animation-delay: 19.5s }
+      @keyframes cycle {
+        0%   { opacity:0 }
+        3%   { opacity:1 }
+        22%  { opacity:1 }
+        25%  { opacity:0 }
+        100% { opacity:0 }
+      }
+      @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+      .cur { fill:#6ea8ff; animation: blink 1.1s step-end infinite; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="130" rx="12" fill="#0d1117"/>
+  <rect x="0" y="0" width="4" height="130" rx="2" fill="#6ea8ff"/>
+
+  <g class="grp g1">
+    <text class="q" x="34" y="55">"Talk is cheap. Show me the code."</text>
+    <text class="a" x="34" y="86">— Linus Torvalds</text>
+  </g>
+  <g class="grp g2">
+    <text class="q" x="34" y="46">"The only truly secure system is one that is powered off,</text>
+    <text class="q" x="34" y="72">cast in concrete and sealed in a lead-lined room."</text>
+    <text class="a" x="34" y="100">— Gene Spafford</text>
+  </g>
+  <g class="grp g3">
+    <text class="q" x="34" y="55">"First, solve the problem. Then, write the code."</text>
+    <text class="a" x="34" y="86">— John Johnson</text>
+  </g>
+  <g class="grp g4">
+    <text class="q" x="34" y="55">"Simplicity is a prerequisite for reliability."</text>
+    <text class="a" x="34" y="86">— Edsger W. Dijkstra</text>
+  </g>
+
+  <rect class="cur" x="852" y="58" width="12" height="18" fill="#6ea8ff"/>
+</svg>

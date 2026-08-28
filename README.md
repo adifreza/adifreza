@@ -1,22 +1,26 @@
-<!-- ═══════════════════════════ MATRIX BANNER ═══════════════════════════ -->
+<h1 align="center">Nadif Reza Fahlevi</h1>
+
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img width="100%" src="./assets/matrix-rain.svg" alt="network security" />
+  <img width="100%" src="./assets/header.svg" alt="Nadif Reza Fahlevi" />
 </p>
 
-<h1 align="center">Nadif Reza Fahlevi</h1>
-<h3 align="center">Full-Stack Developer &nbsp;·&nbsp; Network Security Enthusiast &nbsp;·&nbsp; Indie Product Builder</h3>
+<!-- ═══════════════════════════ ANIMATED QUOTE ═══════════════════════════ -->
+<p align="center">
+  <img width="100%" src="./assets/quotes.svg" alt="quote" />
+</p>
 
 <p align="center">
   <a href="https://github.com/adifreza">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=39D353&center=true&vCenter=true&width=760&lines=I+ship+products+and+I+harden+what+runs+them;From+Laravel+controllers+to+packet+captures+and+firewall+rules;Web+%C2%B7+Networking+%C2%B7+Offensive+%2B+Defensive+Security;Full-stack+on+the+screen%2C+full-stack+down+the+wire" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=4F9FFF&center=true&vCenter=true&width=760&lines=I+ship+products+and+I+harden+what+runs+them;From+Laravel+controllers+to+packet+captures+and+firewall+rules;Web+%C2%B7+Networking+%C2%B7+Offensive+%2B+Defensive+Security;Full-stack+on+the+screen%2C+full-stack+down+the+wire" alt="typing" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adifreza&label=Profile%20views&color=39d353&style=flat-square" alt="views" />
-  <a href="https://github.com/adifreza?tab=followers"><img src="https://img.shields.io/github/followers/adifreza?label=Followers&style=flat-square&color=39d353&labelColor=0d1117" alt="followers" /></a>
-  <a href="https://wdgames.store"><img src="https://img.shields.io/badge/web-wdgames.store-39d353?style=flat-square&labelColor=0d1117" alt="website" /></a>
-  <img src="https://img.shields.io/badge/focus-AppSec%20%2B%20Network%20Defense-39d353?style=flat-square&labelColor=0d1117" alt="focus" />
+  <img src="https://komarev.com/ghpvc/?username=adifreza&label=Profile%20views&color=4f9fff&style=flat-square" alt="views" />
+  <a href="https://github.com/adifreza?tab=followers"><img src="https://img.shields.io/github/followers/adifreza?label=Followers&style=flat-square&color=4f9fff&labelColor=0d1117" alt="followers" /></a>
+  <a href="https://wdgames.store"><img src="https://img.shields.io/badge/web-wdgames.store-4f9fff?style=flat-square&labelColor=0d1117" alt="website" /></a>
+  <img src="https://img.shields.io/badge/focus-AppSec%20%2B%20Network%20Defense-a371f7?style=flat-square&labelColor=0d1117" alt="focus" />
 </p>
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
@@ -118,17 +122,17 @@ writing hardening checklists, and thinking like an attacker so the defender wins
   <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adifreza&theme=github_dark&utcOffset=7" alt="productive-time" />
 </p>
 
-<!-- ═══════════════════════════ 3D CONTRIB ═══════════════════════════ -->
+<!-- ═══════════════════════════ CONTRIBUTION SNAKE ═══════════════════════════ -->
 <p align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/adifreza/adifreza/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </p>
 
 <!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
 ### Connect
 
 <p align="center">
-  <a href="https://wdgames.store"><img src="https://img.shields.io/badge/Website-39d353?style=for-the-badge&logo=googlechrome&logoColor=white" alt="web" /></a>
+  <a href="https://wdgames.store"><img src="https://img.shields.io/badge/Website-4f9fff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="web" /></a>
   <a href="mailto:nadifakiyama@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,100:39d353&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f16,100:4f9fff&height=120&section=footer" alt="footer" />
